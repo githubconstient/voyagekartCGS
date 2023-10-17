@@ -1,0 +1,22 @@
+1.Sub Admin Edit Option
+2.Static Page Footer - delete not working
+http://localhost/andeverywhere/admin/footer/footer_list
+3.Static Page Footer - update not working
+http://localhost/andeverywhere/admin/footer/edit_footer/4
+4.static Page - Social meidia alert shows dialog it should come
+http://localhost/andeverywhere/admin/social/all_social_link
+5.Static Page - After updating Social media status disappearing
+http://localhost/andeverywhere/admin/social/edit_social_link/6
+6.Under static page add 3 sub menu
+
+Menu,Sub Menu,Sort Page
+
+Add menu and pages,sorting menu like reference site
+  http://dev.sinewysoft.com/libsoft/web-admin/
+  admin@libsoft.co.in
+  123456
+  a)for menu - http://dev.sinewysoft.com/libsoft/web-admin/settings/show_menu
+  b)for sub menu - http://dev.sinewysoft.com/libsoft/web-admin/settings/show_sub_menu
+  c)sort Page - http://dev.sinewysoft.com/libsoft/web-admin/cms/menu
+
+7.
